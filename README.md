@@ -3,7 +3,7 @@
 This is a solution to https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj . Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 # link
-- Solution URL:https://www.frontendmentor.io/solutions/nft-preview-card-component-flex-css-h7c5O2OH4H
+- Solution URL:https://www.frontendmentor.io/solutions/landing-page-using-css-grid-and-flex-R9P5tDaIkG
 - Live Site URL:https://madmohammed22.github.io/Order-summary-component/
 
 # My process
